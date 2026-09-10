@@ -30,7 +30,7 @@
 <div align="centre">
  <p align="centre">
   
-[atabook.ᐟ](https://savetheworld.atabook.org/) <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/67bf21be-79d5-4e0f-b9a5-73745304c51f" />
+[atabook.ᐟ](https://savetheworld.atabook.org/) <img width="52" alt="image" src="https://github.com/user-attachments/assets/67bf21be-79d5-4e0f-b9a5-73745304c51f" />
  [strawpage₊ ⊹](https://eatyourdreams.straw.page)
 
 
