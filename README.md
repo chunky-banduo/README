@@ -11,14 +11,7 @@
   <table>
     <tr>
       <td>
- ${\color{#BA52AD}hai}$  ${\color{#903799 }i'm}$ ${\color{#573299}avery,}$ 
- 
-  ${\color{#DAC8F1}he/them,}$
-  
-  ${\color{#BA52AD}whisper2int}$ ${\color{#903799}ok..?ok}$ 
-
- ${\color{#b8a6dd}plz}$ ${\color{#DAC8F1}check}$ ${\color{#b8a6dd}out}$ ${\color{#DAC8F1}my}$ ${\color{#b8a6dd}strawpage}$ ${\color{#DAC8F1}4}$ ${\color{#b8a6dd}more}$  ${\color{#DAC8F1}info}$
- 
+ ${\color{#C4BEA3}ja}$  ${\color{#93C4C3}znam}$ ${\color{#36779C}da}$ ${\color{#064166}je}$ ${\color{#001D30}treci}$ ${\color{#030D14}vavilion}$ 
   </td>
     </tr>
   </table>
