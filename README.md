@@ -21,13 +21,11 @@
 
 
 
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/d42959c0-d018-42ee-a904-92d17cdb6341" />
 
 
 [atabook.ᐟ](https://savetheworld.atabook.org/)   [strawpage₊ ⊹](https://eatyourdreams.straw.page)
 
 
 
-
- <img width="390" align="centre" alt="image" src="https://github.com/user-attachments/assets/a7c75177-7157-4bb6-a2ee-158458882f5e" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d42959c0-d018-42ee-a904-92d17cdb6341" />
 
