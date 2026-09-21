@@ -23,7 +23,7 @@
 
 
 
-[atabook.ᐟ](https://savetheworld.atabook.org/)  <img width="50" alt="gif" src="[https://github.com/user-attachments/assets/a27f271a-5785-4ccb-bd2e-aebd36bbc48e](https://www.pinterest.com/pin/14566398788279509/)" />
+[atabook.ᐟ](https://savetheworld.atabook.org/)  <img width="50" alt="gif" src="(https://www.image2url.com/r2/default/gifs/1790006272001-cdab41ec-ada4-4a32-bb99-6bf495da82d7.gif)" />
  [strawpage₊ ⊹](https://eatyourdreams.straw.page)
 
 
