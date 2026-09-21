@@ -28,8 +28,4 @@
 <br> 
 
 
-<div align="right">
-<p align="right">
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/d42959c0-d018-42ee-a904-92d17cdb6341" />
 
