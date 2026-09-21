@@ -20,9 +20,8 @@
 
 
 
-  
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/0b765b03-6d5e-4ec5-abc4-edb107994d4d" />
-[atabook.ᐟ](https://savetheworld.atabook.org/)     [strawpage₊ ⊹](https://eatyourdreams.straw.page)
+[atabook.ᐟ](https://savetheworld.atabook.org/)   
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/0b765b03-6d5e-4ec5-abc4-edb107994d4d" />  [strawpage₊ ⊹](https://eatyourdreams.straw.page)
 
 
 
