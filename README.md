@@ -1,5 +1,4 @@
 
-<img width="340" align="left" src="https://media.discordapp.net/attachments/1408925553385275514/1551617440532791507/ecc67652f26b5a62282c194269c4bf1c-Photoroom.png?ex=6ab29fd9&is=6ab14e59&hm=e117524e32437a40506a25c68e4451b5e8470b0323e6883caad0a210533c51d1&=&format=webp&quality=lossless" />
 
 
 <br>
@@ -7,6 +6,7 @@
 <div align="middle">
 <p align="middle">
 
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/0da0400c-24b0-4c5e-ad7f-ff9504742f8a" />
 
 <br>  
   <table>
